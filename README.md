@@ -31,7 +31,7 @@
 
 ### Let’s connect!  
 - 📫 Reach me at: 100lakshyaagarwal@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/lakshya-agarwal  
+- 🔗 LinkedIn: http://www.linkedin.com/in/lakshya-agarwal-0a5994192
 - 🔗 GitHub: https://github.com/Lakshya-04  
 
 ---
