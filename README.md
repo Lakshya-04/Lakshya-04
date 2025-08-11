@@ -22,13 +22,13 @@
   <tr>
     <td valign="top">
       <strong>💻 Programming & Frameworks</strong><br><br>
-      - C++, Python, Bash, Modern C++ <br>
+      - C++, Python, Bash <br>
       - ROS2, FreeRTOS, CMake <br>
     </td>
     <td valign="top">
       <strong>🧰 Tools & Simulation</strong><br><br>
-      - Git, Docker, JTAG Debugging <br>
       - Gazebo, MuJoCo, Isaac Sim, Isaac Gym <br>
+      - Git, Docker<br>
     </td>
     <td valign="top">
       <strong>🤖 Hardware Platforms</strong><br><br>
