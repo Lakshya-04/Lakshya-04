@@ -1,39 +1,66 @@
-# Hi there, I'm Lakshya Agarwal 👋
+<h1 align="center">Hi there, I'm Lakshya Agarwal 👋</h1>
 
-🚀 **Aspiring Robotics Engineer | Embedded Systems & Edge AI Enthusiast**  
-🎓 B.Tech in Computer Science Engineering (AI & Robotics) @ VIT Chennai (2022 - 2026)  
-🤖 Passionate about autonomous systems, ROS2, embedded firmware, and robotic perception  
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Lakshya-Agarwal)
 
----
-
-### About Me  
-- Currently focusing on ROS2 control development, embedded drivers, and robot perception pipelines.  
-- Experienced with platforms like AMD Kria FPGA, Jetson Nano/Xavier, STM32, and Raspberry Pi.  
-- Skilled in C++, Python, ROS2, FreeRTOS, and sensor integration for robotics applications.  
-- Leading R&D for autonomous underwater vehicle and robotics projects.  
+🎓 **B.Tech in Computer Science Engineering** with Specialization in **AI & Robotics**  
+📍 Currently @ **VIT Chennai** | Batch of 2026  
+🤖 Passionate about **Embedded Systems**, **Robotics Perception**, and **Edge AI**  
 
 ---
 
-### Tech Stack  
-- **Languages:** C++, Python, Bash, Modern C++  
-- **Frameworks:** ROS2, FreeRTOS, CMake  
-- **Tools:** Git, Docker, Gazebo, MuJoCo, Isaac Sim, Isaac Gym  
+## 🚀 About Me  
+- Building ROS2-based robotic control systems and embedded firmware for autonomous robots.  
+- Experienced with sensor integration, SLAM, and optimizing vision models on edge devices.  
+- Exploring cutting-edge technologies like FPGA acceleration, Reinforcement Learning, and robot autonomy.  
+- Leading R&D for underwater and aerial robotics projects involving Jetson, AMD Kria, and STM32 platforms.  
 
 ---
 
-### Projects & Experience Highlights  
-- Embedded firmware and protocol implementation on STM32 using RTOS  
-- ROS2-based SLAMBot with AMD Kria KR260 and LiDAR sensor fusion  
-- Autonomous Underwater Vehicle (AUV) development with Jetson Xavier & Pixhawk  
-- Winner of AMD Pervasive AI Challenge — optimizing vision models for edge devices  
+## 🛠️ Tech Stack  
+
+<table>
+  <tr>
+    <td valign="top">
+      <strong>💻 Programming & Frameworks</strong><br><br>
+      - C++, Python, Bash, Modern C++ <br>
+      - ROS2, FreeRTOS, CMake <br>
+    </td>
+    <td valign="top">
+      <strong>🧰 Tools & Simulation</strong><br><br>
+      - Git, Docker, JTAG Debugging <br>
+      - Gazebo, MuJoCo, Isaac Sim, Isaac Gym <br>
+    </td>
+    <td valign="top">
+      <strong>🤖 Hardware Platforms</strong><br><br>
+      - AMD Kria KR260 FPGA <br>
+      - NVIDIA Jetson Nano & Xavier <br>
+      - STM32 Microcontrollers <br>
+      - Raspberry Pi <br>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Let’s connect!  
-- 📫 Reach me at: 100lakshyaagarwal@gmail.com  
-- 🔗 LinkedIn: http://www.linkedin.com/in/lakshya-agarwal-0a5994192
-- 🔗 GitHub: https://github.com/Lakshya-04  
+### 📂 Selected Projects & Experience  
+- **ROS2 SLAMBot** with AMD Kria, 2-axis LiDAR & closed-loop motor feedback.  
+- Autonomous Underwater Vehicle (AUV) using Jetson Xavier & Pixhawk.  
+- Embedded protocol stacks (UART, I2C, USB, Bluetooth, WiFi) on STM32 with RTOS.  
+- Winner, AMD Pervasive AI Challenge: Vision model optimization for edge devices.  
 
 ---
 
-⭐️ If you like my work, feel free to follow or star my repositories!
+### <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"/> GitHub Stats  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Lakshya-04&theme=default)](https://git.io/streak-stats)
+
+---
+
+📫 **Get in touch:**  
+- Email: 100lakshyaagarwal@gmail.com  
+- LinkedIn: https://linkedin.com/in/lakshya-agarwal  
+- GitHub: https://github.com/Lakshya-04  
+
+---
+
+⭐️ I’m open to exciting opportunities in robotics and embedded systems — feel free to connect!
+
