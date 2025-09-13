@@ -4,7 +4,7 @@
 
 🎓 **B.Tech in Computer Science Engineering** with Specialization in **AI & Robotics**  
 📍 Currently @ **VIT Chennai** | Batch of 2026  
-🤖 Passionate about **Embedded Systems**, **Robotics Perception**, and **Edge AI**  
+🤖 Passionate about **Robotics**,**Embedded Systems** and **Edge AI**  
 
 ---
 
